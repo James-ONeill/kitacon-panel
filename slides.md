@@ -6,6 +6,25 @@
 
 ---
 
+# Why
+# [fit] YOU
+# should learn Japanese
+
+---
+
+### Easier to get by if you visit Japan
+
+---
+
+### Understand Japanese media
+
+---
+
+### Learning languages improves brain pasticity
+
+
+---
+
 # Is Japanese one of the hardest languages to learn?
 
 ---
@@ -52,11 +71,43 @@
 - Use a flashcard app to learn them (Memrise, etc).
 - Try to practice reading real materials as you go.
 
-
 ---
 
 # Kanji
 
-- 2,136 jōyō (daily use) kanji as of 2010.
-- Simple kanji depict a concept, for example 木 (tree).
-- More complex kanji combine multiple symbols to represent an idea, for example 林 (woods), 森 (forest) and 休 (rest).
+- 2,136 jōyō (daily use) kanji.
+- Increased from 1,945 in 2010.
+- Required for basic adult literacy.
+
+---
+
+# How Kanji Work
+Simple kanji depict a concept, for example...
+
+---
+
+# [fit] 木
+
+---
+
+## Tree
+
+---
+
+# [fit] 林
+
+---
+
+## Woods
+
+---
+
+# [fit] 森
+
+---
+
+## Forest
+
+---
+
+Sometimes this can be more figurative...
