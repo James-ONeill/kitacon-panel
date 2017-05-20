@@ -12,7 +12,12 @@
 
 ---
 
-### Easier to get by if you visit Japan
+# Why YOU should learn Japanese
+- To visit Japan
+- To make new friends
+- To understand Japanese media
+- To improve your brain
+- It's interesting
 
 ---
 
