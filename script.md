@@ -1,16 +1,20 @@
 # Introduction
 
-Good morning. This is "An Anime Fan's Guide to Learning Japanese" and I'm here to tell you how amazing learning Japanese is and share some tips and tricks to make it slightly less intimidating.
+Good morning.
+
+This is "An Anime Fan's Guide to Learning Japanese" and I'm here to convince you that learning Japanese is a totally awesome thing to do as give you some tips and tricks to make it all slightly less intimidating.
 
 First, a little about me.
 
-I started learning Japanese towards the end of 2008 and I think I've done pretty well with it in that time. When I started I'd only been watching Japanese language media for a couple of years. Like lots of people do I'd picked up a few words here and there and this was the first time in my life I'd found myself interested by another language.
+So I've been learning Japanese for nine years now and when I first started my only reasons were to watch untranslated anime and tokusatsu and to meet people who were into the same things as me.
 
-Out of curiosity I'd picked up a really basic book on learning Japanese from a local Waterstones and after reading the couple of chapters in a nearby Costa I never got much further in the book. Those first few chapters were an overview of the structure of the Japanese writing systems which I found fascinating, but after that it turned into pages and pages of lifeless dialogue examples all written in romaji with no real guidance on how to actually learn the language.
+The first thing I did was naïvely pick up some "Teach yourself Japanese" book from Waterstones and at that point I was so motivated that I went straight to a nearby Costa and read the first few chapters. They were fascinating, because they were an overview of how the writing systems work, the rest of the book ... maybe not so much. The last few chapters might have been amazing, I've no idea since I never got much further, but it seemed like most of the book was endless pages of dry dialogue examples written in romaji. I tried to pick the book up again a few times but after a while I just stopped bothering.
 
-A few months later I started a Japanese evening class. While did want to learn the lanaguage I also didn't have much of a social life at the time and I thought that doing a Japanese class would be a way to meet people who were into the same things as me.
+So the next thing I tried was looking for Japanese evening classes, and eventually enrolled in one that a local uni was running. At the time that was probably the best decision I could have made because I suddenly became super determined to do well.
 
-That last part didn't quite work out as I'd hoped but taking the class did make me more motivated to study Japanese properly. Rather than just going along with the lessons I started doing more independent learning. I read course materials ahead of time and then started looking for other learning resources.
+So yeah enough about me. Let's talk about why you want to you might want to learn Japanese...
+
+
 
 
 
