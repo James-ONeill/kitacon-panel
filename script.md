@@ -1,21 +1,18 @@
-# Introduction
+# Step One. Learn Hiragana
 
-Good morning.
+Hiragana is the set of 51 characters that make up the most basic building block of written Japanese. There are a couple of reasons why learning them should be one of the first things that you do:
 
-This is "An Anime Fan's Guide to Learning Japanese" and I'm here to convince you that learning Japanese is a totally awesome thing to do as give you some tips and tricks to make it all slightly less intimidating.
+1. Understanding hiragana makes learning Japanese simpler. Each character represents one sound and only one sound, which means that once you have learned them you will always be able to tell how a word should be pronounced. Learning Japanese from romaji on the other hand can be confusing because there are multiple ways that a word could be written and the correct pronunciation may not be obvious.
+2. Being able to read and write hiragana is one of the first clear goals that you can set for yourself. Achieving this victory is a great feeling and makes you more likely to keep going.
 
-First, a little about me.
+## How to learn hiragana.
 
-So I've been learning Japanese for nine years now and when I first started my only reasons were to watch untranslated anime and tokusatsu and to meet people who were into the same things as me.
-
-The first thing I did was naïvely pick up some "Teach yourself Japanese" book from Waterstones and at that point I was so motivated that I went straight to a nearby Costa and read the first few chapters. They were fascinating, because they were an overview of how the writing systems work, the rest of the book ... maybe not so much. The last few chapters might have been amazing, I've no idea since I never got much further, but it seemed like most of the book was endless pages of dry dialogue examples written in romaji. I tried to pick the book up again a few times but after a while I just stopped bothering.
-
-So the next thing I tried was looking for Japanese evening classes, and eventually enrolled in one that a local uni was running. At the time that was probably the best decision I could have made because I suddenly became super determined to do well.
-
-So yeah enough about me. Let's talk about why you want to you might want to learn Japanese...
-
-
-
+- Believe in the me that believes in you!
+- You can easily find a hiragana chart on the internet. Print one and put it somewhere you'll see it often.
+- The characters are structured in groups of 5 or 3 based on the sounds they represent. Take 15 - 30 minutes to learn each day to learn one new group.
+- Quiz yourself on the characters you've already learned whenever you have the chance.
+- Grab some simple reading materials (for instance basic kana text books) and start trying to read individual words.
+- Hiragana flashcard apps are also a great way to go. There are apps out there that were built just for learning hiragana or there are more general memorisation apps like Memrise and Anki.
 
 
 
