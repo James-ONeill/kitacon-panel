@@ -14,6 +14,21 @@ Hiragana is the set of 51 characters that make up the most basic building block 
 - Grab some simple reading materials (for instance basic kana text books) and start trying to read individual words.
 - Hiragana flashcard apps are also a great way to go. There are apps out there that were built just for learning hiragana or there are more general memorisation apps like Memrise and Anki.
 
+# Step Two. Learn Katakana
+
+Katakana is the set of characters mainly used to sound out loan words from other languages including English. As with hiragana there are 51 characters representing the same sounds. Katakana isn't as useful to learn as hiragana so it's up to you whether you want to skip this step for now.
+
+Understanding Katakana will allow you to understand the rules behind how English words are pronounced in Japanese, there are a couple of benefits to this:
+
+1. Even with limited Japanese knowledge, if you go to Japan you're more likely to be understood if you can sound out English words the way a Japanese person would then if you just pronounced them normally.
+2. Once you can read katakana and sound out words in your head there lots of reading comprehension that you basically get for free. Most places you see katakana you will probably be able to read it without having to look anything up.
+
+## How to learn Katakana
+
+- Use the same methods you used to learn hiragana.
+- For additional practice think about how you would sound out any English words using katakana.
+- Learn to write your own name.
+- もう一度、お前を信じる俺を信じろ！
 
 
 
