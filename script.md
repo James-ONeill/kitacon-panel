@@ -30,5 +30,15 @@ Understanding Katakana will allow you to understand the rules behind how English
 - Learn to write your own name.
 - もう一度、お前を信じる俺を信じろ！
 
+# Step Three. Start Learning Grammar and Vocabulary
+
+# Step Four. Start Learning Kanji
+
+# Resources & Methods
+
+# Using Japanese Media
+
+# Useful Resources
+
 
 
