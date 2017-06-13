@@ -34,6 +34,14 @@ Understanding Katakana will allow you to understand the rules behind how English
 
 # Step Four. Start Learning Kanji
 
+Kanji are Chinese pictographic characters that have been adapted for use in Japanese. As of 2010 there are 2,136 'daily use' kanji. These are the characters that are taught in Japanese schools and being able to read and write these characters is considered the baseline for adult literacy.
+
+Approaching learning kanji for the first time can be very intimidating. Apart from the sheer number of complex characters, many also have multiple meanings and readings, and most can be combined to create compound words.
+
+Thankfully there are ways to manage the difficulty. First off, don't try to learn kanji in isolation. Unlike hiragana and katakana this is not at all a manageable goal. Instead it makes sense to start learning characters as you learn the words that they make up. 
+
+
+
 # Resources & Methods
 
 # Using Japanese Media
