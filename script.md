@@ -32,6 +32,10 @@ Understanding Katakana will allow you to understand the rules behind how English
 
 # Step Three. Start Learning Grammar and Vocabulary
 
+Once you can read kana it's time to start focusing on learning the structure of Japanese grammar and growing your vocabulary. 
+
+Japanese sentence structure is very different to English, it is often described as being a bit like how Yoda speaks "At the end, the verb is" but there's a little more to it than that. In the beginning the important thing to bear in mind is that taking an English sentence and  translating it into Japanese word by word will lead to unnatural results. Because of this it's important to spend as much time as possible listening to and reading natural Japanese. Watching anime can be quite an advantage here (though if you only watch sci-fi and fantasy anime maybe not so much) because you will begin to develop an ear for Japanese.
+
 # Step Four. Start Learning Kanji
 
 Kanji are Chinese pictographic characters that have been adapted for use in Japanese. As of 2010 there are 2,136 'daily use' kanji. These are the characters that are taught in Japanese schools and being able to read and write these characters is considered the baseline for adult literacy.
@@ -39,8 +43,6 @@ Kanji are Chinese pictographic characters that have been adapted for use in Japa
 Approaching learning kanji for the first time can be very intimidating. Apart from the sheer number of complex characters, many also have multiple meanings and readings, and most can be combined to create compound words.
 
 Thankfully there are ways to manage the difficulty. First off, don't try to learn kanji in isolation. Unlike hiragana and katakana this is not at all a manageable goal. Instead it makes sense to start learning characters as you learn the words that they make up. 
-
-
 
 # Resources & Methods
 
