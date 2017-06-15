@@ -1,4 +1,4 @@
-# Step One. Learn Hiragana
+# Learn Hiragana
 
 Hiragana is the set of 51 characters that make up the most basic building block of written Japanese. There are a couple of reasons why learning them should be one of the first things that you do:
 
@@ -12,9 +12,11 @@ Hiragana is the set of 51 characters that make up the most basic building block 
 - The characters are structured in groups of 5 or 3 based on the sounds they represent. Take 15 - 30 minutes to learn each day to learn one new group.
 - Quiz yourself on the characters you've already learned whenever you have the chance.
 - Grab some simple reading materials (for instance basic kana text books) and start trying to read individual words.
+- Practice writing hiragana by hand.
+- Learn how to use Japanese input on your computer and phone.
 - Hiragana flashcard apps are also a great way to go. There are apps out there that were built just for learning hiragana or there are more general memorisation apps like Memrise and Anki.
 
-# Step Two. Learn Katakana
+# Learn Katakana
 
 Katakana is the set of characters mainly used to sound out loan words from other languages including English. As with hiragana there are 51 characters representing the same sounds. Katakana isn't as useful to learn as hiragana so it's up to you whether you want to skip this step for now.
 
@@ -30,11 +32,15 @@ Understanding Katakana will allow you to understand the rules behind how English
 - Learn to write your own name.
 - もう一度、お前を信じる俺を信じろ！
 
-# Step Three. Start Learning Grammar and Vocabulary
+# Learn Vocab
 
-Once you can read kana it's time to start focusing on learning the structure of Japanese grammar and growing your vocabulary. 
+With a general hiragana
 
-Japanese sentence structure is very different to English, it is often described as being a bit like how Yoda speaks "At the end, the verb is" but there's a little more to it than that. In the beginning the important thing to bear in mind is that taking an English sentence and  translating it into Japanese word by word will lead to unnatural results. Because of this it's important to spend as much time as possible listening to and reading natural Japanese. Watching anime can be quite an advantage here (though if you only watch sci-fi and fantasy anime maybe not so much) because you will begin to develop an ear for Japanese.
+Japanese sentence structure is very different to English, it is often described as being a bit like how Yoda speaks "At the end, the verb is". There's a bit more to but that's a pretty good intro.
+
+Depending on how much time and or money you have available there are different
+
+An important thing to bear in mind is that taking an English sentence and translating it into Japanese word by word will lead to unnatural results. Because of this it's important to spend as much time as possible listening to and reading natural Japanese. Watching anime can be quite an advantage here because once you get the grasp of.
 
 # Step Four. Start Learning Kanji
 
