@@ -6,7 +6,6 @@
 
 ---
 
-## - Step One -
 # [fit] Learn Hiragana
 
 ---
@@ -35,3 +34,28 @@
 - Use a kana textbook to practice reading.
 
 ![fit](hiragana-chart-image.png)
+
+---
+
+# [fit] Learn Katakana
+
+---
+
+![fit](katakana-chart-image.png)
+
+---
+
+# Katakana (カタカナ)
+
+- Mainly used to sound out foreign loan words.
+- Represent the same set of sounds as hiragana.
+- Similar to upper / lower case in English.
+- Also used for emphasis and onomatopoeia.
+
+![fit](katakana-chart-image.png)
+
+---
+
+# How to Lean Katakana
+
+---
