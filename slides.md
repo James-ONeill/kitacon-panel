@@ -58,4 +58,9 @@
 
 # How to Lean Katakana
 
----
+- Repeat the same methods as with Hiragana.
+- Try to sound out English words using katakana.
+
+![fit](katakana-chart-image.png)
+
+
