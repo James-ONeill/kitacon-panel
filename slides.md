@@ -63,4 +63,38 @@
 
 ![fit](katakana-chart-image.png)
 
+---
+
+# [fit] Learn Vocab & Grammar
+
+---
+
+# Vocab & Grammar
+
+- Japanese grammar structure is very different to English.
+- Trying to literally translate sentences leads to awkward results.
+- Expose yourself to as much natural Japanese as possible.
+
+---
+
+# Vocab & Grammar
+
+- If you're self studying then audio lessons and podcasts are your friend.
+- Beginner text books are a good source of basic Japanese, although the grammar can be stiff.
+- Tae Kim's grammar guide (http://www.guidetojapanese.org/learn/) is an excellent overview of sentence structure.
+
+---
+
+# [fit] Learn Kanji
+
+---
+
+# Kanji (漢字)
+
+- Pictographic characters adapted from Chinese.
+- Used to represent the meaning of words.
+- 2,136 "daily use" characters required for basic adult literacy!
+
+
+
 
